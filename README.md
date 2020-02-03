@@ -1,1 +1,2 @@
-# boas-vindas
+
+![](./logo-curso-02.png)
